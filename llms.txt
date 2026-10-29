@@ -1,0 +1,8 @@
+# Forex Funds Flow Discount Codes
+
+This dataset tracks historical deal observations for Forex Funds Flow from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (10%)
+Works any time on all Forex Funds Flow challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/forex-funds-flow/

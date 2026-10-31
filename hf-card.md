@@ -42,6 +42,7 @@ As of 2026-06-12, the verified Forex Funds Flow discount code is **PFD** — up 
 - Published: 2026-06-12
 - Offer ends: Ended
 - Offer: 15% off
+- Event: World Cup
 - Scope: All Programs
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/
@@ -70,24 +71,24 @@ Total deals tracked: **15**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-06-12 | 15% Off All Evaluation Programs | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/) |
-| 2026-05-27 | 15% Off Evaluation and Instant Accounts Eid Promotion | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-eid-promotion/) |
+| 2026-06-12 | 15% Off All Evaluation Programs | 15% off | Ended | World Cup | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/) |
+| 2026-05-27 | 15% Off Evaluation and Instant Accounts Eid Promotion | 15% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-eid-promotion/) |
 | 2026-05-26 | 2.5k Instant Boost and 5k 2-Step Evaluation Accounts for $49 | Only $49 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-49-dollar-accounts/) |
 | 2026-03-28 | 15% Price Reduction on Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-percent-discount/) |
-| 2026-03-19 | 12% Off All Evaluation Accounts | 12% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-12-off-eid-al-fitr/) |
-| 2026-02-18 | 10% Discount on All Evaluation and Instant Funding Models | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-10-percent-off-ramadan/) |
+| 2026-03-19 | 12% Off All Evaluation Accounts | 12% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-12-off-eid-al-fitr/) |
+| 2026-02-18 | 10% Discount on All Evaluation and Instant Funding Models | 10% off | Ended | Ramadan | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-10-percent-off-ramadan/) |
 | 2026-01-27 | 10% Discount on 100K Challenge Cost $449 | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-10-percent-off-100k-challenge/) |
 | 2026-01-05 | Flash Sale: 26% OFF Entry Fee | 26% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-26-off-flash-sale/) |
-| 2026-01-02 | New Year Offer: 17% Off Challenge Pricing | 17% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-new-year-offer-17-off/) |
+| 2026-01-02 | New Year Offer: 17% Off Challenge Pricing | 17% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-new-year-offer-17-off/) |
 
 ### 2025 (6 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-29 | Christmas Flash Offer: 23% OFF All Models | 23% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-christmas-flash-offer-23-off/) |
-| 2025-12-19 | Christmas Offer: 17% OFF All Accounts | 17% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-christmas-offer-17-off/) |
-| 2025-11-24 | Black Friday Offer: 20% Off All Plans | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-black-friday-20-off/) |
-| 2025-10-29 | Halloween: 20% OFF All Plans + $39 Instant Account Entry | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-halloween-20-off-instant-account-39/) |
+| 2025-12-29 | Christmas Flash Offer: 23% OFF All Models | 23% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-christmas-flash-offer-23-off/) |
+| 2025-12-19 | Christmas Offer: 17% OFF All Accounts | 17% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-christmas-offer-17-off/) |
+| 2025-11-24 | Black Friday Offer: 20% Off All Plans | 20% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-black-friday-20-off/) |
+| 2025-10-29 | Halloween: 20% OFF All Plans + $39 Instant Account Entry | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-halloween-20-off-instant-account-39/) |
 | 2025-08-05 | Offer: 35% OFF Small, 25% OFF Large Challenges & 15% OFF Instant | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-promotion-tiered-discounts/) |
 | 2025-07-18 | Launch Offer: 35% OFF $5k–$10k Accounts | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-35-off-5k-10k-accounts/) |
 

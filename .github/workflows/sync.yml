@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: forex-funds-flow-discount-codes
+  HF_NAMESPACE: forexfundsflow
+  HF_REPO_NAME: forex-funds-flow-deals
   FIRM_SLUG: forex-funds-flow
   DEALSTORE_ID: 224
   FIRM_NAME: Forex Funds Flow

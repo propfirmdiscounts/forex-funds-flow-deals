@@ -12,7 +12,7 @@ As of 2026-06-12, the verified Forex Funds Flow discount code is PFD — up to 1
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-06-12
-- Trustpilot: 3.5/5 (257 reviews)
+- Trustpilot: 3.5/5 (259 reviews)
 - Activate: https://propfirmdiscount.com/go/forexfundsflow
 - Firm page: https://propfirmdiscount.com/prop-firm/forex-funds-flow/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes

@@ -1,6 +1,6 @@
 # Forex Funds Flow - Discount Codes & Deal History
 
-As of November 2026, the verified Forex Funds Flow discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Forex Funds Flow discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "15% Off All Evaluation Programs".
 
 > Forex Funds Flow is a modern proprietary trading firm committed to empowering traders worldwide. We provide access to trading capital through a variety of funding programs including our 1-Step Challenge, 2-Step Evaluation, and Instant Funding options with account sizes available up to $100,000.
 > Our mission is to discover and support skilled traders by offering a clear path to capital, backed by a fair and transparent process. Whether you're looking for a fast-track opportunity or a structured evaluation, Forex Funds Flow has a program to suit your trading style.
@@ -13,11 +13,11 @@ As of November 2026, the verified Forex Funds Flow discount code is PFD — 10% 
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-06-12
 - Trustpilot: [3.5/5 (259 reviews)](https://www.trustpilot.com/review/forexfundsflow.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/forex-funds-flow-deals](https://github.com/propfirmdiscounts/forex-funds-flow-deals)
-- Activate: [https://propfirmdiscount.com/go/forexfundsflow](https://propfirmdiscount.com/go/forexfundsflow)
-- Firm page: [https://propfirmdiscount.com/prop-firm/forex-funds-flow/](https://propfirmdiscount.com/prop-firm/forex-funds-flow/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Forex Funds Flow Deals Repository](https://github.com/propfirmdiscounts/forex-funds-flow-deals)
+- Activate: [Activate Forex Funds Flow Discount Code](https://propfirmdiscount.com/go/forexfundsflow)
+- Firm page: [Forex Funds Flow Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/forex-funds-flow/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Forex Funds Flow API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Forex Funds Flow deal: 15% Off All Evaluation Programs
 
@@ -27,7 +27,7 @@ As of November 2026, the verified Forex Funds Flow discount code is PFD — 10% 
 - Event: World Cup
 - Scope: All Programs
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/)
+- Deal page: [Forex Funds Flow Deal Page](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/)
 
 ## Forex Funds Flow discount code FAQ
 
@@ -80,9 +80,9 @@ Total deals tracked: **15**
 
 This repository mirrors every deal **Forex Funds Flow** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/forex-funds-flow/](https://propfirmdiscount.com/prop-firm/forex-funds-flow/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Forex Funds Flow Profile](https://propfirmdiscount.com/prop-firm/forex-funds-flow/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/forex-funds-flow-deals.json`
 
@@ -125,4 +125,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).

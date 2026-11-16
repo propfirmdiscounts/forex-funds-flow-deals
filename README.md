@@ -1,6 +1,6 @@
 # Forex Funds Flow - Discount Codes & Deal History
 
-As of 2026-11, the verified Forex Funds Flow discount code is PFD — 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Forex Funds Flow discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
 
 > Forex Funds Flow is a modern proprietary trading firm committed to empowering traders worldwide. We provide access to trading capital through a variety of funding programs including our 1-Step Challenge, 2-Step Evaluation, and Instant Funding options with account sizes available up to $100,000.
 > Our mission is to discover and support skilled traders by offering a clear path to capital, backed by a fair and transparent process. Whether you're looking for a fast-track opportunity or a structured evaluation, Forex Funds Flow has a program to suit your trading style.

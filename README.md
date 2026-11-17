@@ -1,4 +1,4 @@
-# Forex Funds Flow Discount Code & Deal History
+# Forex Funds Flow Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Forex Funds Flow discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "15% Off All Evaluation Programs".
 
@@ -13,7 +13,7 @@ As of November 2026, the verified Forex Funds Flow discount code is PFD — 10% 
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-06-12
 - Trustpilot: [3.5/5 (259 reviews)](https://www.trustpilot.com/review/forexfundsflow.com)
-- GitHub repository: [Forex Funds Flow Deals Repository](https://github.com/propfirmdiscounts/forex-funds-flow-deals)
+- GitHub repository: [Forex Funds Flow Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/forex-funds-flow-deals)
 - Activate: [Activate Forex Funds Flow Discount Code](https://propfirmdiscount.com/go/forexfundsflow)
 - Firm page: [Forex Funds Flow Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/forex-funds-flow/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -29,7 +29,7 @@ As of November 2026, the verified Forex Funds Flow discount code is PFD — 10% 
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Forex Funds Flow Deal Page](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/)
 
-## Forex Funds Flow Discount Code & Deals FAQ
+## Forex Funds Flow Discount Code & Deals History FAQ
 
 **What is the Forex Funds Flow discount code?**
 
@@ -45,7 +45,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Forex Funds Flow Deal History
+## Forex Funds Flow Deals History
 
 Total deals tracked: **15**
 
@@ -76,7 +76,7 @@ Total deals tracked: **15**
 
 ---
 
-## About the Forex Funds Flow Deals Dataset
+## About the Forex Funds Flow Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Forex Funds Flow** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -84,7 +84,7 @@ This repository mirrors every deal **Forex Funds Flow** has published on PropFir
 - Prop firm profile: [Forex Funds Flow Profile](https://propfirmdiscount.com/prop-firm/forex-funds-flow/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Forex Funds Flow Deal Dataset: Field Definitions
+## Forex Funds Flow Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

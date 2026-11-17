@@ -1,4 +1,4 @@
-# Forex Funds Flow Discount Codes
+# Forex Funds Flow Discount Code & Deals History
 
 This dataset tracks historical deal observations for Forex Funds Flow from PropFirmDiscount.com.
 
